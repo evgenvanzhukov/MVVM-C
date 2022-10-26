@@ -6,6 +6,6 @@ I create it after whatching this video: https://www.youtube.com/watch?v=2kozD2Vl
 
 I am specially changed names of models and controllers opposite the original video for complicate work of brain and more coding by self.
 
-I captured sreen at coding. This is a boring and mute video:
+I captured sreen at coding. This is a boring and mute video, but if you wont, wellcome:
 https://youtu.be/oJE4wTfalOk 
 https://youtu.be/EXkQ6JpXgGY
